@@ -1,8 +1,10 @@
-# Solana Bootcamp: Autumn 2024
+# Solana Camp - BLOCKTRAIN PROGRAM 2025
 
-<p width="full" margin="auto" align="center" style="background:gray"><img src="assets/logo.png" alt="ship" width="400" margin="auto" align="center" /></p>
+<p width="full" margin="auto" align="center" style="background:gray"><img src="assets/logo.jpg" alt="ship" width="800" margin="auto" align="center" /></p>
 
-Welcome to the Solana Bootcamp Autumn repository! This repository is a collection of exercises and templates designed to guide you through the 6-week Solana development training sessions organized by [SuperteamVN](https://vn.superteam.fun/).
+**Welcome to the Solana Camp - BLOCKTRAIN PROGRAM 2025 Repository!**
+
+This repository contains sample code and exercises designed to guide you through the 4-days Solana development training session organized by SuperteamVN and Hanoi University of Science and Technology's Youth Union.
 
 ## Get Started
 
@@ -14,27 +16,14 @@ Welcome to the Solana Bootcamp Autumn repository! This repository is a collectio
 
 | Day | Topic                                               | Deadline   |
 | --- | --------------------------------------------------- | ---------- |
-| 1   | [Introduction about Solana](./assignment-1/)        | 15/08/2024 |
-| 1   | [Token & NFT](./assignment-2/)                      | 15/08/2024 |
-| 2   | [Build your first program](./assignment-3/)         | 22/08/2024 |
-| 3   | [Introduction to staking and Defi](./assignment-4/) | 29/08/2024 |
-| 4   | [Advanced Defi](./assignment-5/)                    | 05/09/2024 |
-| 6   | [Blinks & Actions](./assignment-6/)                 | 12/09/2024 |
+| 1   | [Introduction about Solana](./week-1/assignment/README.md)        | 29/07/2025 23:59 |
+| 1   | [Token & NFT](./week-2/assignment/README.md)                      | 30/07/2025 23:59 |
+| 2   | [Build your first program](./week-3/assignment/README.md)         | 31/07/2025 23:59 |
+| 3   | [Mobile development](./week-4/assignment/README.md) | 01/08/2025 23:59 |
 
 Stay tuned for updates on future assignments!
 
 ## Assignment Submission
-
-To submit your assignments, please ensure you have enabled the **Issues** feature in your forked repository. If it's disabled by default, you can enable it by navigating to `Settings > General` on your fork. Scroll down to the `Features` sub-section and check the `Issues` box.
-
-![how to enable issue feature on fork](./assets/enable-issue-feature.png).
-
-Once enabled, follow these steps for each submission:
-
-1. **Code Submission**: Place your submitted code in the respective `/week-[number]/assignment` folder on your fork.
-2. **Deployment**: Deploy your program on Devnet when necessary.
-3. **Issue Creation**: Open an issue in your forked repository with the title `Submission for assignment [number]`. Ensure you include the public preview link in the issue description. Refer to [this example issue](https://github.com/trankhacvy/solana-bootcamp-autumn-2024/issues/1) for guidance.
-4. Enter the submission information in the Google Form provided for each lesson
 
 ## Evaluation Criteria
 
@@ -47,6 +36,6 @@ Our team will carefully assess your submissions. After evaluation, we'll share t
 
 ## Support
 
-Should you have any questions or run into any issues, don't hesitate to reach out on [our Discord](https://discord.gg/gZmWJ5jQ). We are happy to help!
+Should you have any questions or run into any issues, don't hesitate to reach out on [our Telegram](). We are happy to help!
 
 Best of luck with your training! 🌟
