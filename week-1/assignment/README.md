@@ -10,6 +10,6 @@
 
 ## Submission
 - Begin your work using the code found in the `/week-1/code` folder.
-- Ensure all the assignment code resides in the `/week-1/assignment` directory. The final submission deadline is `15/08/2024`.
+- Ensure all the assignment code resides in the `/week-1/assignment` directory. The final submission deadline is `29/07/2025`.
 
 Once completed, open a GitHub issue in your forked repository titled `Submission for Assignment 1`. Don't forget to include the signatures of your executed transactions run on devnet in the description. Then, enter your submission information into this form https://forms.gle/GgLu4WVxn9dN43VU9
